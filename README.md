@@ -42,7 +42,8 @@ Oyun, akıcı animasyonlar, duyarlı kontroller ve çarpıcı çöl teması suna
 - **Altınlar**:  
   - Skorunu artırmak için topla  
   - Özel içeriklerin kilidini açmak için kullan
-  - 
+ 
+    
 ![pic3](./TempAssets/Picture3.jpg)
 
 ---
