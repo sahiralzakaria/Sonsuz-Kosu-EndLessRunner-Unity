@@ -6,6 +6,7 @@ Engellerden kaçınarak ve altınları toplayarak uçsuz bucaksız bir çölün 
 Subway Surfers gibi tempolu oyunlardan ilham alınarak geliştirilen bu yapım, etkileyici görselleri ve akıcı oynanışıyla dikkat çekiyor.
 
 ![pic1](./TempAssets/Picture1.jpg)
+
 ---
 
 ## 📌 Açıklama
