@@ -2,6 +2,7 @@
 
 ## 🎮 Sonsuz Koşucusu'na Hoş Geldiniz
 
+
 Engellerden kaçınarak ve altınları toplayarak uçsuz bucaksız bir çölün içinde koştuğunuz heyecan dolu bir sonsuz koşu oyunu!  
 Subway Surfers gibi tempolu oyunlardan ilham alınarak geliştirilen bu yapım, etkileyici görselleri ve akıcı oynanışıyla dikkat çekiyor.
 
