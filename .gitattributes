@@ -1,2 +1,19 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+MonoBleedingEdge/** linguist-vendored
+**/MonoBleedingEdge/** linguist-vendored
+
+*.aspx linguist-detectable=false
+*.asmx linguist-detectable=false
+
+*.dart linguist-detectable=true
+*.dart linguist-language=Dart
+
+*.meta linguist-detectable=false
+*.unity linguist-detectable=false
+*.asset linguist-detectable=false
+
+/[Bb]uild/** linguist-generated
+/[Bb]uilds/** linguist-generated
