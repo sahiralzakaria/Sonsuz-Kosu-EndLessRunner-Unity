@@ -1,13 +1,31 @@
-# تجاهل ASP.NET تمامًا
+# تجاهل ملفات ASP.NET
 *.aspx linguist-detectable=false
-*.ascx linguist-detectable=false
 *.asmx linguist-detectable=false
+*.ascx linguist-detectable=false
+*.cshtml linguist-detectable=false
 
-# تجاهل Unity
-*.unity linguist-detectable=false
+# تجاهل ملفات Unity
 *.meta linguist-detectable=false
+*.unity linguist-detectable=false
 *.asset linguist-detectable=false
+*.prefab linguist-detectable=false
+*.mat linguist-detectable=false
+*.anim linguist-detectable=false
+*.controller linguist-detectable=false
+*.physicMaterial linguist-detectable=false
+*.physicsMaterial2D linguist-detectable=false
+MonoBleedingEdge/** linguist-vendored
+**/MonoBleedingEdge/** linguist-vendored
 
-# تجاهل مجلدات Unity
-/[Aa]ssets/** linguist-vendored
-/Library/** linguist-vendored
+# تعزيز ملفات Dart وFlutter
+*.dart linguist-detectable=true
+*.dart linguist-language=Dart
+
+# تقليل تأثير ملفات C# (إذا كنت لا تريد إبرازها)
+*.cs linguist-detectable=false
+
+# تجاهل ملفات أخرى غير ضرورية
+*.sln linguist-detectable=false
+*.csproj linguist-detectable=false
+*.user linguist-detectable=false
+*.suo linguist-detectable=false
