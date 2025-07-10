@@ -1,16 +1,13 @@
-# تجاهل ملفات Unity من إحصائيات GitHub
-MonoBleedingEdge/** linguist-vendored
-**/MonoBleedingEdge/** linguist-vendored
-
-# تجاهل ملفات ASP.NET
+# تجاهل ASP.NET تمامًا
 *.aspx linguist-detectable=false
+*.ascx linguist-detectable=false
 *.asmx linguist-detectable=false
 
-# تجاهل ملفات Unity الأخرى
-*.meta linguist-detectable=false
+# تجاهل Unity
 *.unity linguist-detectable=false
+*.meta linguist-detectable=false
 *.asset linguist-detectable=false
 
-# تعزيز C# للألعاب
-*.cs linguist-detectable=true
-*.cs linguist-language=C#
+# تجاهل مجلدات Unity
+/[Aa]ssets/** linguist-vendored
+/Library/** linguist-vendored
