@@ -20,6 +20,7 @@ Oyun, akıcı animasyonlar, duyarlı kontroller ve çarpıcı çöl teması suna
 
 ---
 
+
 ## 🚀 Özellikler
 
 - **Sonsuz Koşu**: Ne kadar uzun süre koşarsan, o kadar yüksek puan alırsın.  
