@@ -27,7 +27,6 @@ Oyun, akıcı animasyonlar, duyarlı kontroller ve çarpıcı çöl teması suna
 
 ![pic2](./TempAssets/Picture2.jpg)
 
-
 ---
 
 ## 🕹️ Oynanış
