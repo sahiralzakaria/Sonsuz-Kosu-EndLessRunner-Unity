@@ -10,6 +10,7 @@ Subway Surfers gibi tempolu oyunlardan ilham alınarak geliştirilen bu yapım, 
 
 ---
 
+
 ## 📌 Açıklama
 
 **Sonsuz Koşucusu**, Unity kullanılarak geliştirilen bir sonsuz koşu oyunudur.  
