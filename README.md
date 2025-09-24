@@ -48,6 +48,7 @@ Oyun, akıcı animasyonlar, duyarlı kontroller ve çarpıcı çöl teması suna
 
 ![pic3](./TempAssets/Picture3.jpg)
 
+
 ---
 
 
