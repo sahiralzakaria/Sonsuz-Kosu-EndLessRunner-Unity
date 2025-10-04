@@ -21,6 +21,7 @@ Oyun, akıcı animasyonlar, duyarlı kontroller ve çarpıcı çöl teması suna
 
 ## 🚀 Özellikler
 
+
 - **Sonsuz Koşu**: Ne kadar uzun süre koşarsan, o kadar yüksek puan alırsın.  
 - **Engellerden Kaçınma**: Çöl ortamındaki çeşitli engellerin üzerinden atla veya etrafından dola.  
 - **Altın Toplama**: Skorunu artırmak ve özel öğelerin kilidini açmak için altınları topla.  
