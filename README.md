@@ -32,7 +32,6 @@ Oyun, akıcı animasyonlar, duyarlı kontroller ve çarpıcı çöl teması suna
 
 ---
 
-
 ## 🕹️ Oynanış
 
 - **Amaç**: Engellerden kaçınarak ve altın toplayarak mümkün olduğunca uzun süre koş.  
